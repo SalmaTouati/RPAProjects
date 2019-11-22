@@ -1,6 +1,6 @@
 {
-  "name": "Project3",
-  "description": "ThirdProject",
+  "name": "Project4",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.5.4]",
