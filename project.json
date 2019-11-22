@@ -1,6 +1,6 @@
 {
-  "name": "Firsttest",
-  "description": "First Test Project\r\n",
+  "name": "SecondTest",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.5.4]",
