@@ -1,6 +1,6 @@
 {
-  "name": "Project4",
-  "description": "Blank Process",
+  "name": "SwitchActivity",
+  "description": "SwitchActivity Example ",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.5.4]",
